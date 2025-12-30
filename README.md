@@ -1,5 +1,5 @@
 ```markdown
-# Telusko Trac - Product Inventory Management
+# My Tracker - Product Inventory Management
 
 A comprehensive product inventory management system built with **FastAPI** backend and SQLAlchemy for persistent storage. This API provides full CRUD operations for tracking and managing product inventory efficiently.
 
@@ -160,8 +160,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Happy Coding!** 🚀
 
-*Telusko Trac - Simple, Fast, and Reliable Inventory Management*
-```
-
-You can now select and copy the entire content above in one go, paste it directly into a new file named `README.md` in your VS Code project, save it, and you're all set!
-```
+*KAKANYERO - Simple, Fast, and Reliable Inventory Management*
